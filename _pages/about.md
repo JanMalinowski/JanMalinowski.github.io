@@ -19,7 +19,7 @@ Hello! My name is Jan, thanks for visiting my website. I am going to use it as a
 
 # About me
 
-My name is Jan Malinowski. I was born in 1999 in the city of Lublin in the eastern part of Poland. Currently, I study physics at the University of Oxford, however for my career I am planning to work as a data scientist.
+My name is Jan Malinowski. I was born in 1999 in Lublin, eastern Poland. Currently, I study physics at the University of Oxford, however for my career I am planning to work as a data scientist.
 I am interested in (with varying intensity):
 
 - Machine Learning/Artificial Intelligence

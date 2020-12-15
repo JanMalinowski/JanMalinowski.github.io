@@ -13,7 +13,6 @@ Hello! My name is Jan, thanks for visiting my website. I am going to use it as a
 - Machine Learning/Artificial Intelligence
 - Kaggle
 - Book reviews/Literature
-- Kaggle
 - Lifestyle (?)
 - Random thoughts
 - Education

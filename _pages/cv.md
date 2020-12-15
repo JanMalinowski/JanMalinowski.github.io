@@ -12,7 +12,7 @@ redirect_from:
 Experience
 ======
 
-### Warsaw ASC Student Supercomputer Challenge Team
+### Warsaw [ASC](http://www.asc-events.org/ASC20-21/) Team
 
 *Team member* 
 
